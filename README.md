@@ -115,11 +115,11 @@ Core technologies:
 
 ---
 
-🛍️ Tradeloom — Unified Multi-Mode Marketplace
+🛍️ CONFLUMIX — Unified Multi-Mode Marketplace
 
 A university project built around a different approach to marketplace software: multiple forms of value exchange inside one platform.
 
-Tradeloom brings together:
+CONFLUMIX brings together:
 
 - 🛒 New Product Marketplace
 - ♻️ Reuse Marketplace
@@ -262,7 +262,7 @@ I want to build software that is technically meaningful, solves genuine problems
 
 - 💻 GitHub: "@imzeesh-mughal1044" (https://github.com/imzeesh-mughal1044)
 - 💼 LinkedIn: "Zeeshan Ahmad" (https://linkedin.com/in/yourprofile)
-- 📧 Email: "your.email@example.com"
+- 📧 Email: "zeegcmspak@gmail.com"
 
 ---
 
